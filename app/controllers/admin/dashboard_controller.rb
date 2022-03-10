@@ -5,5 +5,14 @@ class Admin::DashboardController < ApplicationController
   puts ENV["ADMIN_USERNAME"]
 
   def show
+    @data = Hash[
+      "products" => Product.count(:name),
+      "categories" => Category.count(:name)
+    ]
+    puts @data
   end
+
 end
+
+
+

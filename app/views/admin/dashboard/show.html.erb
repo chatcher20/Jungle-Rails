@@ -1,2 +1,16 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Admin Dashboard</h1>
+
+<h3><Product and Category Count Data</h3>
+<ul class="prod-cat-data">
+  <li>
+  <%= link_to "Products", [:admin, :products] %> 
+  <p><%= @data["products"] %></p>
+  </li>
+  <li>
+  Categories 
+  <p><%= @data["categories"] %></p>
+  </li>
+</ul>
+
+
+
