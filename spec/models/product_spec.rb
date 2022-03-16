@@ -18,7 +18,6 @@ RSpec.describe Product, type: :model do
       expect(testProduct.save).to be true
     end
   
-
     it 'Should not save when name missing' do
       testProduct = Product.new({
         name: 'John Doe',
