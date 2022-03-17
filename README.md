@@ -5,11 +5,11 @@ Jungle is an e-commerce application built with Rails 4.2 that allows user to fil
 
 ## Final Product Screenshots
 
-![Show Appointments](https://github.com/chatcher20/scheduler/blob/master/public/images/show_appointments.png?raw=true)
+![Home Page](https://github.com/chatcher20/jungle-rails/blob/master/public/readmepics/Homepage.png?raw=true)
 
-![Create Appointment](https://github.com/chatcher20/scheduler/blob/master/public/images/create_appointment.png?raw=true)
+![My Cart](https://github.com/chatcher20/jungle-rails/blob/master/public/readmepics/My%20Cart.png?raw=true)
 
-![Edit/Delete Appointment](https://github.com/chatcher20/scheduler/blob/master/public/images/edit_delete_appointment.png?raw=true)
+![Admin Products](https://github.com/chatcher20/jungle-rails/blob/master/public/readmepics/Admin_all_prods.png?raw=true)
 
 
 
